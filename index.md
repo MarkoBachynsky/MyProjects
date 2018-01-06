@@ -1,6 +1,6 @@
 <h1>Name Generator</h1>
 
-<img src="NameGenerator.png" alt="Name Generator" style="width:1284px;height:670px;">>
+<img src="NameGenerator.png" alt="Name Generator">
 
 This program was created with the purpose of helping you find a name you like, lets talk about some of the features it has to offer...
 Names are generated when you click the generate button.
